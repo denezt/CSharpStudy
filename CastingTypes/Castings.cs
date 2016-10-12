@@ -1,4 +1,5 @@
-// A Hello World! program in C#.
+// Useful for casting (Changing/Converting datatypes).
+
 using System;
 namespace Castings
 {
